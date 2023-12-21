@@ -51,7 +51,7 @@ class _SavedColorCardState extends State<SavedColorCard> {
                 ),
               ],
             ),
-            const Spacer(), // Adiciona um espaço flexível para alinhar à direita
+            const Spacer(),
             IconButton(
               icon: const Icon(Icons.more_vert),
               onPressed: () {

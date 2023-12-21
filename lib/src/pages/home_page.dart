@@ -1,4 +1,3 @@
-// Importando os pacotes necessários
 // ignore_for_file: use_build_context_synchronously, prefer_final_fields
 
 import 'package:flutter/material.dart';
