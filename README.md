@@ -23,7 +23,7 @@ Um aplicativo simples para visualização e salvamento de cores RGB e HEX em Flu
 
 ## Como Executar
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/rgb-visualizer.git`
+1. Clone o repositório: `git clone https://github.com/EduAzevedo/rgb-visualizer.git`
 2. Navegue até o diretório do projeto: `cd rgb-visualizer`
 3. Execute o aplicativo: `flutter run`
 
