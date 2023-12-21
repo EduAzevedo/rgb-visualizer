@@ -1,30 +1,30 @@
-# rgb_visualizer
+# RGB Visualizer
 
-A new Flutter project.
+Um aplicativo simples para visualização e salvamento de cores RGB e HEX em Flutter.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
+- Visualização de cores com base nos valores RGB.
+- Salvamento de cores personalizadas.
+- Exclusão de cores salvas.
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Capturas de Tela
 
-## Assets
+![Captura de tela 1](assets/screenshots/homepage.png)
+![Captura de tela 2](assets/screenshots/dialogAddCor.png)
+![Captura de tela 3](assets/screenshots/modalCorInfo.png)
 
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
+## Pré-requisitos
 
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
+- Flutter SDK instalado
+- Dependências do projeto instaladas (execute `flutter pub get` no terminal)
 
-## Localization
+## Como Executar
 
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
+1. Clone o repositório: `git clone https://github.com/seu-usuario/rgb-visualizer.git`
+2. Navegue até o diretório do projeto: `cd rgb-visualizer`
+3. Execute o aplicativo: `flutter run`
 
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+## Contribuindo
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
