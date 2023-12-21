@@ -10,9 +10,11 @@ Um aplicativo simples para visualização e salvamento de cores RGB e HEX em Flu
 
 ## Capturas de Tela
 
-![Captura de tela 1](assets/screenshots/homepage.png)
-![Captura de tela 2](assets/screenshots/dialogAddCor.png)
-![Captura de tela 3](assets/screenshots/modalCorInfo.png)
+<p float="left">
+  <img src="assets/screenshots/homepage.png" width="300" />
+  <img src="assets/screenshots/dialogAddCor.png" width="300" /> 
+  <img src="assets/screenshots/modalCorInfo.png" width="300" />
+</p>
 
 ## Pré-requisitos
 
